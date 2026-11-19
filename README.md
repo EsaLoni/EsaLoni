@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Wave Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,30&height=220&section=header&text=Esa%20Loni&fontSize=62&fontAlignY=36&desc=AI%20%26%20Software%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,30&height=220&section=header&text=Esa%20Loni&fontSize=62&fontAlignY=36&desc=Data%20Scientist%20%7C%20Data%20Analyst%20%7C%20AI%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://github.com/EsaLoni">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+Intelligent+AI+Applications;Crafting+End-to-End+ML+Pipelines;Full-Stack+Web+Development;Turning+Data+into+Impactful+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Data+Science+%26+Predictive+Modeling;Exploratory+Data+Analysis+%26+Storytelling;Business+Intelligence+%26+Interactive+Dashboards;Machine+Learning+%26+AI+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,36 +27,54 @@
 
 ```yaml
 name: Esa Loni
-role: AI & Software Developer
-focus: Machine Learning, NLP & Intelligent Systems
-passions: [Predictive Modeling, Smart Web Apps, Open Source]
-motto: "Transforming complex datasets and algorithms into elegant, user-centric products."
+roles:
+  - Data Scientist
+  - Data Analyst
+  - AI & Software Developer
+focus:
+  - Exploratory Data Analysis (EDA) & Statistical Inference
+  - Predictive Modeling & Machine Learning
+  - Interactive Dashboards & Business Intelligence
+motto: "Translating raw, complex data into actionable business insights and intelligent systems."
 ```
 
-- 🔭 **Currently Building**: Intelligent document understanding workspaces & predictive analytics systems.
-- 🌱 **Deepening Knowledge In**: Large Language Model (LLM) fine-tuning, RAG architectures, and scalable cloud deployments.
-- 💡 **Specialties**: Machine Learning workflows, Streamlit dashboards, Full-Stack prototyping.
-- 💬 **Ask Me About**: Python, Machine Learning models, Streamlit, Scikit-learn, Data pipelines.
+- 🔬 **Data Analytics & Science**: Proficient in uncovering patterns, building predictive pipelines, hypothesis testing, and turning complex metrics into executive-ready dashboards.
+- 🔭 **Currently Building**: Predictive ML systems, interactive data analytics dashboards, and semantic document analysis workspaces.
+- 🌱 **Deepening Knowledge In**: Advanced statistical modeling, RAG architectures, feature engineering, and big data processing.
+- 💬 **Ask Me About**: Python, SQL, Pandas, NumPy, Data Cleaning/Wrangling, Scikit-Learn, Streamlit, and Data Storytelling.
 - 📫 **Reach Out**: [esaloni313@gmail.com](mailto:esaloni313@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Data Science & Analytics Toolkit
 
 <div align="center">
 
-#### 🧠 Machine Learning & Data Science
+#### 📊 Data Analysis & Manipulation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-#### 💻 Software & Web Development
+#### 📈 Data Visualization & BI
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+#### 🧠 Machine Learning & Modeling
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-00599C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+#### 💻 Development & Workflow
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -65,23 +83,15 @@ motto: "Transforming complex datasets and algorithms into elegant, user-centric 
 
 ---
 
-### 🚀 Featured Creations
+### 🚀 Featured Data & AI Projects
 
-| Project | Highlights & Tech | Link |
-| :--- | :--- | :---: |
-| 📄 **Docora** | Intelligent document research assistant & semantic analysis workspace. <br/>`Python` `NLP` `AI Workspace` | [Explore Repo ↗](https://github.com/EsaLoni/docora) |
-| 🎓 **EduPulse** | Student dropout risk prediction system with interactive analytics dashboard. <br/>`Python` `Streamlit` `Scikit-Learn` `Predictive ML` | [Explore Repo ↗](https://github.com/EsaLoni/EduPulse) |
-| 🥗 **FoodWiseAI** | Smart food waste detection and consumption pattern tracker. <br/>`Computer Vision` `AI Solutions` `Python` | [Explore Repo ↗](https://github.com/EsaLoni/FoodWiseAI) |
-| 🎬 **MovieFlix** | Personalized content recommendation engine using collaborative filtering. <br/>`Machine Learning` `Recommender Systems` `Python` | [Explore Repo ↗](https://github.com/EsaLoni/movieflix) |
-| ⏳ **WaitWise** | Micro-incentive driven passive interaction web experiment. <br/>`JavaScript` `Web App` `Interactive UI` | [Explore Repo ↗](https://github.com/EsaLoni/waitwise) |
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EsaLoni&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+| Project | Domain & Focus | Key Tech | Link |
+| :--- | :--- | :--- | :---: |
+| 🎓 **EduPulse** | **Predictive Data Science & Analytics Dashboard**<br/>Conducted comprehensive EDA, data preprocessing, and classification modeling to predict student dropout probabilities with actionable intervention metrics. | `Python` `Streamlit` `Scikit-Learn` `EDA` | [Explore Repo ↗](https://github.com/EsaLoni/EduPulse) |
+| 🥗 **FoodWiseAI** | **Consumption Analytics & Computer Vision**<br/>Analyzed food consumption patterns, automated waste identification, and generated actionable sustainability insights. | `Python` `Data Analytics` `CV` `ML` | [Explore Repo ↗](https://github.com/EsaLoni/FoodWiseAI) |
+| 📄 **Docora** | **Intelligent Document Intelligence & NLP**<br/>Engineered a semantic research assistant to extract, structure, and analyze unstructured document data. | `Python` `NLP` `Information Retrieval` | [Explore Repo ↗](https://github.com/EsaLoni/docora) |
+| 🎬 **MovieFlix** | **Recommender Systems & Behavioral Analysis**<br/>Built user-item interaction models utilizing collaborative filtering algorithms to deliver personalized recommendations. | `Machine Learning` `Matrix Factorization` `Python` | [Explore Repo ↗](https://github.com/EsaLoni/movieflix) |
+| ⏳ **WaitWise** | **User Interaction Analytics & Web Application**<br/>Micro-incentive driven passive web interaction study analyzing user retention and response behavior. | `JavaScript` `Analytics` `Web App` | [Explore Repo ↗](https://github.com/EsaLoni/waitwise) |
 
 ---
 
@@ -102,7 +112,7 @@ motto: "Transforming complex datasets and algorithms into elegant, user-centric 
 
 ### 🤝 Let's Connect & Collaborate!
 
-Got an exciting AI / software project, research idea, or role opportunity?
+Looking for a **Data Scientist**, **Data Analyst**, or **AI Developer** for your next project or role?
 
 [![Send Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esaloni313@gmail.com)
 [![Visit Portfolio](https://img.shields.io/badge/Check_CV_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/EsaLoni/cv)
